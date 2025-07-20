@@ -15,6 +15,6 @@ This project reads your unread Gmail emails, extracts calendar event information
 
 ## Features
 
-- Uses Ollama + LLaMA 3 for parsing
+- Uses Ollama + mistral for parsing
 - Adds events to Google Calendar
 - Works with Gmail via IMAP
